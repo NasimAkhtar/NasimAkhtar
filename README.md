@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NasimAkhtar
 - 👀 I’m interested in Java, Spring Boot, Microservices
-- 🌱 I’m currently learning Scalabe, Highl Performance, Highly Available Architecture, Angular, Docker, Kubernetes
+- 🌱 I’m currently learning Scalabe, High Performance, Highly Available Architecture, Angular, Docker, Kubernetes
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me nasimnittcse@gmail.com, nasimrkgit@gmail.com
 
